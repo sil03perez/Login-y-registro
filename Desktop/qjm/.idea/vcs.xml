@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cnt23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cxc_23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cxp_23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gen_23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inv_23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/v23d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/widgets_qjm" vcs="Git" />
+  </component>
+</project>
