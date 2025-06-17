@@ -4,7 +4,7 @@ export default function Login() {
     return ( 
         
         <DefaultLayout>
-          <form>
+          <form className="form">
         <h1>LOGIN</h1>
         <label >USERNAME</label>
         <input type="text" />

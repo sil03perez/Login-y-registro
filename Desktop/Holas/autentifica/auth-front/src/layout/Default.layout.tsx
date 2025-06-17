@@ -1,12 +1,13 @@
-import { Children } from "react";
 import { Link } from "react-router-dom";
 
 interface DefaultLayoutProps {
     children: React.ReactNode;
 }
 
-export default function DefaultLayout({Children}: DefaultLayoutProps) {
-    return <>
+export default function DefaultLayout({children}: DefaultLayoutProps) {
+    return (
+
+         <>
     
     <header>
         <nav>
@@ -21,9 +22,11 @@ export default function DefaultLayout({Children}: DefaultLayoutProps) {
         </nav>
     </header>
     <main>
-        {Children}
+        {children}
     </main>
   
     
     </>
+    )
+   
 }
